@@ -1,8 +1,8 @@
-# Data Scrapping using Scrappy
+# Data Scrapping using Scrapy
 
-Find more information about `Scrappy` in [Scrappy Documentation](https://scrapy-gallaecio.readthedocs.io/en/latest/index.html)
+Find more information about `Scrapy` in [Scrapy Documentation](https://scrapy-gallaecio.readthedocs.io/en/latest/index.html)
 
-CMDs for generating `Scrappy` project are in `hugo_boss/setup_scrapy.sh` file
+CMDs for generating `Scrapy` project are in `hugo_boss/setup_scrapy.sh` file
 
 Scrape information of all products from [Hugo Boss's website](https://www.hugoboss.com/home)
 
@@ -21,7 +21,7 @@ Scrape information of all products from [Hugo Boss's website](https://www.hugobo
 -   Scrape information in parallel (32 maximum concurrent requests performed)
 -   The data will be extracted and recorded in `hugo_boss/hugo_prod.csv` file
 
-## Scrappy's report
+## Scrapy's report
 
 ```sh
  'downloader/request_bytes': 12888534,
