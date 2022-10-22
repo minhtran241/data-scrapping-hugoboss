@@ -4,9 +4,9 @@ Find more information about `Scrappy` in [Scrappy Documentation](https://scrapy-
 
 CMDs for generating `Scrappy` project are in `hugo_boss/setup_scrapy.sh` file
 
-## Hugo Boss Data Scrapping
+Scrape information of all products from [Hugo Boss's website](https://www.hugoboss.com/home)
 
-The Scrappy project scrapes information of Hugo Boss's products
+## Data
 
 -   Product's name
 -   Available colors
